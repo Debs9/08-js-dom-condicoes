@@ -24,7 +24,7 @@ function verificar () {
                 img.setAttribute('src', 'homem-adulto.webp')
             } else {
                 //Idoso
-                img.setAttribute('src', 'idoso-Homem.webp')
+                img.setAttribute('src', 'idoso.Homem.webp')
             }
             
         } else if (fsex[1].checked) {
